@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Projects – Internship Portfolio
+# Data Science & Machine Learning Projects 
 
 **Internship Program:** Data Science & Analytics Internship  
 **Organization:** DevelopersHub Corporation  
