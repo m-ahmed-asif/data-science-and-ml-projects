@@ -29,7 +29,7 @@ Each project is structured with:
 - **Goal:** Load, visualize, and summarize data to understand patterns.
 - **Skills Used:** Data loading, scatter plots, histograms, box plots using matplotlib/seaborn.
 
-➡️ [View Notebook](./Project-1_Exploring-Iris-Dataset/iris_exploration.ipynb)
+https://colab.research.google.com/drive/1pLfImB8_R9cnakd1CKC8IxJuYFhnE6LB#
 
 ---
 
