@@ -38,7 +38,7 @@ https://colab.research.google.com/drive/1pLfImB8_R9cnakd1CKC8IxJuYFhnE6LB#
 - **Goal:** Predict loan default risk.
 - **Techniques:** Handling missing values, logistic regression / decision tree, confusion matrix, accuracy.
 
-➡️ [View Notebook](./Project-2_Credit-Risk-Prediction/credit_risk_prediction.ipynb)
+https://colab.research.google.com/drive/18Na3B59NnegUd_a6UISU8kbqrAQoqmk7
 
 ---
 
@@ -47,7 +47,7 @@ https://colab.research.google.com/drive/1pLfImB8_R9cnakd1CKC8IxJuYFhnE6LB#
 - **Goal:** Identify customers likely to leave a bank.
 - **Techniques:** Categorical encoding, classification, feature importance, model interpretation.
 
-➡️ [View Notebook](./Project-3_Customer-Churn/churn_prediction.ipynb)
+https://colab.research.google.com/drive/1JiSmqRgPaVq-EcCNULH1AigXcbJaEjM3
 
 ---
 
@@ -58,7 +58,7 @@ https://colab.research.google.com/drive/1pLfImB8_R9cnakd1CKC8IxJuYFhnE6LB#
 - **Models:** Linear Regression  
 - **Visuals:** Correlation heatmaps, scatter plots of BMI, age, smoking status.
 
-➡️ [View Notebook](./Project-4_Insurance-Charge-Prediction/insurance_cost_prediction.ipynb)
+https://colab.research.google.com/drive/1a9cJLMU9Ih6K_mytDqTJVYQcOysImc82#
 
 ---
 
@@ -68,7 +68,7 @@ https://colab.research.google.com/drive/1pLfImB8_R9cnakd1CKC8IxJuYFhnE6LB#
 - **Tools:** Logistic Regression / Decision Tree  
 - **Insights:** Analyzed age, marital status, job categories to understand patterns.
 
-➡️ [View Notebook](./Project-5_Personal-Loan-Acceptance/personal_loan_prediction.ipynb)
+https://colab.research.google.com/drive/1MYAi0ITuD5LRo815kyO_VYW1pJkcyMTu
 
 ---
 
